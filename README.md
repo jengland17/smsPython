@@ -1,3 +1,3 @@
 #smsPython
 
-Able to send messages by running this code
+Able to send messages to phone by running this code
